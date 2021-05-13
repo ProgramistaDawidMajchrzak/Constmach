@@ -727,12 +727,11 @@ input:placeholder-shown {
         height: 100px;
         width: 90%;
         margin: auto;
-        margin-top: 150px;
     }
 
     #info-bottom p {
         font-size: 14px;
-        padding: 10px 20px;
+        padding: 5px 20px;
     }
 
     /* ****** */
@@ -742,17 +741,17 @@ input:placeholder-shown {
         flex-direction: column;
         border-radius: 20px;
         margin: auto;
-        margin-top: 600px;
+        margin-top: 570px;
     }
 
     .right-info h4 {
         margin: 20px auto;
         margin-bottom: 20px;
-        font-size: 5vw;
+        font-size: 20px;
     }
 
     .right-info p {
-        font-size: 3vw;
+        font-size: 14px;
         padding: 10px 20px;
     }
 
@@ -768,6 +767,7 @@ input:placeholder-shown {
 
     #mieszalniki-img img {
         height: auto;
+        width: 100%;
     }
 
     /* **** */
@@ -777,7 +777,7 @@ input:placeholder-shown {
         margin: auto;
         height: 100%;
         flex-direction: column;
-        margin-top: 1900px;
+        margin-top: 1510px;
     }
 
     #left-transport-img {
@@ -793,12 +793,12 @@ input:placeholder-shown {
     }
 
     #middle-transport-info h4 {
-        font-size: 4vw;
+        font-size: 20px;
         margin-top: 0;
     }
 
     #middle-transport-info p {
-        font-size: 3vw;
+        font-size: 14px;
         padding: 0 15px 20px;
     }
 
