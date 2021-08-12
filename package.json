@@ -1,0 +1,22 @@
+{
+  "name": "constmach",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgramistaDawidMajchrzak/Constmach.git"
+  },
+  "author": "David M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProgramistaDawidMajchrzak/Constmach/issues"
+  },
+  "homepage": "https://github.com/ProgramistaDawidMajchrzak/Constmach#readme",
+  "dependencies": {
+    "emailjs-com": "^3.2.0"
+  }
+}
